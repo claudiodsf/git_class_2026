@@ -9,6 +9,8 @@ Palestine, Lebanon, Syria, and UAE.
 It is very tasty and crunchy snack. Try this recipe at Iftar during this
 Ramadan and enjoy.
 
+![Image of falafel](recipes/falafel.jpg)
+> Image source: Wikipedia
 
 ## Ingredients
 
