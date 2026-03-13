@@ -9,3 +9,5 @@ Git is mind blowing!
 This is an extra line.
 
 This is a line modified locally.
+
+This line was edited using the [GitHub](https://github.com) online interfaces.
