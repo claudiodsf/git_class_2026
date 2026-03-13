@@ -7,3 +7,5 @@ Git is mind blowing!
 ![](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYm50Y3NvYjlscm8wcXdmamV6cGh3ZDdsMTViam81NnRsZWxsNjNqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V0IdVIIW1y5d6/giphy.gif)
 
 This is an extra line.
+
+This is a line modified locally.
