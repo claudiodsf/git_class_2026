@@ -13,3 +13,5 @@ This is a line modified locally.
 This line was edited using the [GitHub](https://github.com) online interfaces.
 
 Again, a modification!
+
+This is a local modification 💻
